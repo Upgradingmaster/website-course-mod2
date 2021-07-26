@@ -26,7 +26,7 @@ section {
 	position: relative;
 }
 
-div.menu-item > div{
+.food-name{
 	border: 1px solid black;
 	width: 30%;
 	height: 20%;
